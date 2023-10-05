@@ -1,0 +1,5 @@
+headphone,12,boat,999,2
+vivo v29,412,mobile,31400,1
+fastrak,4421,watch,1800,1
+hp 15s,123,laptop,59000,1
+vivo v29,1234,mobile,31000,1
